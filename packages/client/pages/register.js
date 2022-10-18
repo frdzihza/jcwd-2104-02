@@ -195,7 +195,7 @@ export default function Register() {
                         label="Password"
                         name="password"
                         type={showPassword ? 'text' : 'password'}
-                        w={'23.5vw'}
+                        // w={'23.5vw'}
                       />
                       <InputRightElement>
                         <Button
@@ -222,7 +222,7 @@ export default function Register() {
                         label="Confirm Password"
                         name="confirmPassword"
                         type={showConfirmPassword ? 'text' : 'password'}
-                        w={'23.5vw'}
+                        // w={'23.5vw'}
                       />
                       <InputRightElement>
                         <Button
